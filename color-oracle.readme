@@ -1,0 +1,16 @@
+install apache ant
+	https://ant.apache.org/bindownload.cgi
+		https://dlcdn.apache.org//ant/binaries/apache-ant-1.9.16-bin.zip
+	https://ant.apache.org/manual/index.html
+	
+install launch4j win exe
+	https://sourceforge.net/projects/launch4j/
+	Install / copy to color oracle /win
+	
+change some of the config stuff
+	java version
+	launch4j.config.xml
+		jre-path: %PATH%
+		comment out messages-bundledJreErr
+
+vs code 
